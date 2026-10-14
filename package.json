@@ -1,0 +1,9 @@
+{
+  "name": "oop-challenge",
+  "version": "1.0.0",
+  "description": "Calculadora en TypeScript usando programación orientada a objetos",
+  "type": "module",
+  "scripts": {
+    "start": "node oopchallenge.ts"
+  }
+}
