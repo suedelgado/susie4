@@ -4,6 +4,11 @@
   "description": "Calculadora en TypeScript usando programación orientada a objetos",
   "type": "module",
   "scripts": {
-    "start": "node oopchallenge.ts"
+    "start": "node oopchallenge.ts",
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
   }
 }
